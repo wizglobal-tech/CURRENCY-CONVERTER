@@ -20,7 +20,7 @@ An interactive **Currency Converter** built with Python and Streamlit that provi
 ## Screenshots 📸
 | Enter Amount | Convert Currency |
 |------------------|----------------|
-| ![Enter Amount](screenshots/enteramount.png) | ![Convert Currency](screenshots/convertcurrency.png) |
+| ![Enter Amount](screenshots/image1.png) | ![Convert Currency](screenshots/image2.png) |
 
 ## Tech Stack 🛠
 - *Frontend*: Streamlit
