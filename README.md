@@ -18,7 +18,7 @@ An interactive **Currency Converter** built with Python and Streamlit that provi
 
 
 ## Screenshots 📸
-| Image 1 | Image 2 |
+| Image 1 | Image 3 |
 |------------------|----------------|
 | ![Enter Amount](screenshots/image1.png) | ![Convert Currency](screenshots/image2.png) |
 
