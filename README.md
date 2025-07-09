@@ -18,9 +18,9 @@ An interactive **Currency Converter** built with Python and Streamlit that provi
 
 
 ## Screenshots 📸
-| Image 1 | Image 3 |
+| Enter Amount | Convert Currency |
 |------------------|----------------|
-| ![Enter Amount](screenshots/image1.png) | ![Convert Currency](screenshots/image2.png) |
+| ![Enter Amount](screenshots/enteramount.png) | ![Convert Currency](screenshots/convertcurrency.png) |
 
 ## Tech Stack 🛠
 - *Frontend*: Streamlit
